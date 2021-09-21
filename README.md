@@ -5,6 +5,15 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WalterEschenbach)](https://github.com/WalterEschenbach/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/WalterEschenbach/DayDecider">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WalterEschenbach&repo=DayDecider" />
+  </a>
+  <a href="https://github.com/WalterEschenbach/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a>
+</p>
+
 
 <!--
 **WalterEschenbach/WalterEschenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
