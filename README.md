@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WalterEschenbach)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waltereschenbach)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eschenbach.walter@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:walter.eschenbach@outlook.com)
+
+
 [![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterEschenbach&show_icons=true&theme=tokyonight)](https://github.com/WalterEschenbach/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterEschenbach&layout=compact&theme=tokyonight)](https://github.com/WalterEschenbach/github-readme-stats)
@@ -15,17 +21,20 @@
 </p>
 
 
-<!--
-**WalterEschenbach/WalterEschenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HTML
+<ul>
+  <li>Basics</li>
+  <li>Forms</li>
+</ul>
 
-Here are some ideas to get you started:
+CSS
+<ul>
+  <li><a href="https://github.com/WalterEschenbach/mern-heroku-netlify">Selectors</a></li>
+  <li>Cascades</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+<ul>
+  <li>var, let, const</li>
+  <li>Hoisting</li>
+</ul>
