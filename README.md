@@ -23,18 +23,41 @@
 
 HTML
 <ul>
-  <li>Basics</li>
-  <li>Forms</li>
+  <li><a href="#">Basics</a></li>
+  <li><a href="#">Forms</a></li>
 </ul>
 
 CSS
 <ul>
-  <li><a href="https://github.com/WalterEschenbach/mern-heroku-netlify">Selectors</a></li>
-  <li>Cascades</li>
+  <li><a href="#">Selectors</a></li>
 </ul>
 
 JavaScript
 <ul>
-  <li>var, let, const</li>
-  <li>Hoisting</li>
+ <li>var, let, const (<a href="">example #1</a>)</li>
+ <li>Hoisting (<a href="">example #1</a>)</li>
+ <li>Strict Equality (<a href="">example #1</a>)</li>
+ <li>Scoping (<a href="">example #1</a>)</li>
+ <li>DOM Traversal (<a href="">example #1</a>)</li>
+ <li>Closures (<a href="">example #1</a>)</li>
+ <li>Reference vs Value (<a href="">example #1</a>)</li>
+ <li>DOM Manipulation (<a href="">example #1</a>)</li>
+ <li>Arrow Functions (<a href="">example #1</a>)</li>
+ <li>Callbacks (<a href="">example #1</a>)</li>
+ <li>Event Listeners (<a href="">example #1</a>)</li>
+ <li>Promises (<a href="">example #1</a>)</li>
+ <li>Async Await (<a href="">example #1</a>)</li>
+ <li>Fetch (<a href="">example #1</a>)</li>
+ <li>Browser Storage (<a href="">example #1</a>)</li>
+ <li>Event Loop (<a href="">example #1</a>)</li>
+ <li>Modules (<a href="">example #1</a>)</li>
+ <li>Template Literals (<a href="">example #1</a>)</li>
+ <li>Array Methods (<a href="">example #1</a>)</li>
+ <li>Null vs Undefined (<a href="">example #1</a>)</li>
+ <li>Recursion (<a href="">example #1</a>)</li>
+ <li>Short Circuiting (<a href="">example #1</a>)</li>
+ <li>Ternary Operator (<a href="">example #1</a>)</li>
+ <li>Destructuring/Spread Operator (<a href="">example #1</a>)</li>
+ <li>Classes (<a href="">example #1</a>)</li>
+ <li>Bundlers (<a href="">example #1</a>)</li>
 </ul>
